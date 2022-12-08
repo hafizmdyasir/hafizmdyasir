@@ -12,7 +12,7 @@ Hi! I am a postgraduate student majoring in Physics from the Indian Institute of
 * [Alliterations](https://www.amazon.com/gp/product/B0B3YBNMWW/ref=dbs_a_def_rwt_bibl_vppi_i0): A collection of thrity poems penned over the course of a month and published in response to the January Journal challenge.
 
 ### 📰 Recent Medium Posts
-* [Temporal and Spatial Coherence](https://mohammad-yasir.medium.com/wave-optics-temporal-spatial-coherence-ad43da2e0e20)
+* [Understanding Temporal and Spatial Coherence](https://mohammad-yasir.medium.com/wave-optics-temporal-spatial-coherence-ad43da2e0e20)
 * [Generalized Coordinates, Constraints, and D'Alembert's Principle](https://mohammad-yasir.medium.com/generalized-coordinates-constraints-dalemberts-principle-lagrangian-6c65abb09c07)
 * [No. Electrons Do Not Have Orbits](https://mohammad-yasir.medium.com/electrons-do-not-have-orbits-2d920f2ae46d)
 
