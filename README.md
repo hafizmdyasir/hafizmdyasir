@@ -9,6 +9,7 @@ Hi! I am a postgraduate student majoring in Physics from the Indian Institute of
 * [hafizmdyasir.github.io](https://hafizmdyasir.github.io): My personal profile page hosted via GitHub Pages.
 
 ### 📚 My Books
+* [Book of Interesting Physics](https://github.com/hafizmdyasir/interesting-physics): A fork of [collegefishies](https://github.com/collegefishies/)'s [interesting-physics](https://github.com/collegefishies/interesting-physics) repository, to which, I am attempting to contribute various intriguing problems, paradoxes, and their solutions. 
 * [Alliterations](https://www.amazon.com/gp/product/B0B3YBNMWW/ref=dbs_a_def_rwt_bibl_vppi_i0): A collection of thrity poems penned over the course of a month and published in response to the January Journal challenge.
 
 ### 📰 Recent Medium Posts
