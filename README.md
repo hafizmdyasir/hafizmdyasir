@@ -1,7 +1,9 @@
-## Mohammad Yasir
-#### Physicist. Author. Developer.
-
+# Mohammad Yasir
+#### Physicist. Author. Developer
 Hi! I am a postgraduate student majoring in Physics from the Indian Institute of Technology. Apart from all things Physics, I have a passion for poetry and literature. In the era of intricate software, I love creating simple and minimal code. Where the world sees disorder, I see Physics at work and enjoy solving its mysteries.
+
+### 💻 Technical Skills
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌱 My Projects
 * [Numerical Root Finding](https://github.com/hafizmdyasir/root-finding-methods): A collection of Python scripts for various root finding algorithms.
@@ -12,16 +14,19 @@ Hi! I am a postgraduate student majoring in Physics from the Indian Institute of
 * [Book of Interesting Physics](https://github.com/hafizmdyasir/interesting-physics): A fork of [collegefishies](https://github.com/collegefishies/)'s [interesting-physics](https://github.com/collegefishies/interesting-physics) repository, to which, I am attempting to contribute various intriguing problems, paradoxes, and their solutions. 
 * [Alliterations](https://www.amazon.com/gp/product/B0B3YBNMWW/ref=dbs_a_def_rwt_bibl_vppi_i0): A collection of thrity poems penned over the course of a month and published in response to the January Journal challenge.
 
-### 📰 Recent Medium Posts
-* [Understanding Temporal and Spatial Coherence](https://mohammad-yasir.medium.com/wave-optics-temporal-spatial-coherence-ad43da2e0e20)
-* [Generalized Coordinates, Constraints, and D'Alembert's Principle](https://mohammad-yasir.medium.com/generalized-coordinates-constraints-dalemberts-principle-lagrangian-6c65abb09c07)
-* [No. Electrons Do Not Have Orbits](https://mohammad-yasir.medium.com/electrons-do-not-have-orbits-2d920f2ae46d)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=hafizmdyasir&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
 
-### 🌐 Recent HubPages Posts
-* [Gravity and Newton's Law of Gravitation](http://hub.me/apjww)
-* [Interesting Paradoxes: The Monty Hall Problem](http://hub.me/aoXyZ)
-* [How to Enable Swipe for Actions in Android RecyclerView](http://hub.me/aozdW)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmdyasir&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📬 Reach Me
-* See my website: [hafizmdyasir.github.io](https://hafizmdyasir.github.io)
-* Read my poems on Instagram: [@_onomato](https://www.instagram.com/_onomato/)
+
+### 🌐 Reach Me
+[![Personal website](https://img.shields.io/badge/my-website-blue)](https://hafizmdyasir.github.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_onomato) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizmdyasir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://mohammad-yasir.medium.com) [![HubPages](https://img.shields.io/badge/HP-HubPages-orange.svg)](https://hubpages.com/@mdyasir) 
+
+---
+
+### ☕ Buy me a Coffee
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hafizmdyasir) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
