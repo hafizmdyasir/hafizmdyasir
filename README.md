@@ -14,12 +14,6 @@ Hi! I am a postgraduate student majoring in Physics from the Indian Institute of
 * [Book of Interesting Physics](https://github.com/hafizmdyasir/interesting-physics): A fork of [collegefishies](https://github.com/collegefishies/)'s [interesting-physics](https://github.com/collegefishies/interesting-physics) repository, to which, I am attempting to contribute various intriguing problems, paradoxes, and their solutions. 
 * [Alliterations](https://www.amazon.com/gp/product/B0B3YBNMWW/ref=dbs_a_def_rwt_bibl_vppi_i0): A collection of thrity poems penned over the course of a month and published in response to the January Journal challenge.
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hafizmdyasir&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmdyasir&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ### 🌐 Reach Me
 [![Personal website](https://img.shields.io/badge/my-website-blue)](https://hafizmdyasir.github.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_onomato) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizmdyasir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://mohammad-yasir.medium.com) [![HubPages](https://img.shields.io/badge/HP-HubPages-orange.svg)](https://hubpages.com/@mdyasir) 
 
