@@ -6,6 +6,7 @@ Hi! I am a postgraduate student majoring in Physics from the Indian Institute of
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌱 My Projects
+* [Hoshen-Kopelman Algorithm](https://github.com/hafizmdyasir/Hoshen-Kopelman-Algorithm): An implementation of the Hoshen-Kopelman Algorithm for cluster labelling in one-dimensional and two-dimensional matrices.
 * [Numerical Root Finding](https://github.com/hafizmdyasir/root-finding-methods): A collection of Python scripts for various root finding algorithms.
 * [Direct To Chat](https://github.com/hafizmdyasir/Direct-To-Chat): A minimal Android Application written in Kotlin that allows sending WhatsApp messages to unsaved contacts directly.
 * [hafizmdyasir.github.io](https://hafizmdyasir.github.io): My personal profile page hosted via GitHub Pages.
