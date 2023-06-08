@@ -1,6 +1,6 @@
 # Mohammad Yasir
 #### Physicist. Author. Developer
-Hi! I am a postgraduate student majoring in Physics from the Indian Institute of Technology. Apart from all things Physics, I have a passion for poetry and literature. In the era of intricate software, I love creating simple and minimal code. Where the world sees disorder, I see Physics at work and enjoy solving its mysteries.
+Hi! I majored in Physics from the Indian Institute of Technology and apart from all things Physics, I have a passion for poetry and literature. In the era of intricate software, I love creating simple and minimal code. Where the world sees disorder, I see Physics at work and enjoy solving its mysteries.
 
 ### 💻 Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
