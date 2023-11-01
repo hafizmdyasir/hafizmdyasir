@@ -7,6 +7,7 @@ Hi! I majored in Physics from the Indian Institute of Technology and apart from 
 
 ### 🌱 My Projects
 * [CSIR NET Physics Papers](https://github.com/hafizmdyasir/CSIR-NET-Physics): A well-organized, regularly updated collection of previous year questions of the CSIR NET Physical Sciences exam sorted by topic.
+* [Fractal Generation](https://github.com/hafizmdyasir/fractals): A collection of interesting algorithms I have and will come across over time related to generating fractal patterns.
 * [Hoshen-Kopelman Algorithm](https://github.com/hafizmdyasir/Hoshen-Kopelman-Algorithm): An implementation of the Hoshen-Kopelman Algorithm for cluster labelling in one-dimensional and two-dimensional matrices.
 * [Numerical Root Finding](https://github.com/hafizmdyasir/root-finding-methods): A collection of Python scripts for various root finding algorithms.
 * [Direct To Chat](https://github.com/hafizmdyasir/Direct-To-Chat): A minimal Android Application written in Kotlin that allows sending WhatsApp messages to unsaved contacts directly.
