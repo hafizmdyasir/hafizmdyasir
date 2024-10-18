@@ -6,6 +6,7 @@ Hi! I majored in Physics from the Indian Institute of Technology and apart from 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌱 My Projects
+* [PaTriC - Particle Tracker in C++](https://github.com/hafizmdyasir/PaTriC): A custom charged particle tracking code written C++, developed as part of my work at Indian Institute of Technology Delhi.
 * [Fractal Generation](https://github.com/hafizmdyasir/fractals): A collection of interesting algorithms I have and will come across over time related to generating fractal patterns.
 * [Hoshen-Kopelman Algorithm](https://github.com/hafizmdyasir/Hoshen-Kopelman-Algorithm): An implementation of the Hoshen-Kopelman Algorithm for cluster labelling in one-dimensional and two-dimensional matrices.
 * [Numerical Root Finding](https://github.com/hafizmdyasir/root-finding-methods): A collection of Python scripts for various root finding algorithms.
